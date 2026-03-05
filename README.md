@@ -1,6 +1,6 @@
 # Boughty Backend
 
-The backend for "Boughty", an e-commerce platform built with Node.js, Express, and Prisma.
+The backend for Boughty, This is basically a learning project of mine where i built this ecommerce backend in PERN Stack for fun, this has almost all the basic features a ecommerce platform has except the payment gateway to pay for orders.
 
 ## Features
 
