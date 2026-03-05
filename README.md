@@ -53,3 +53,4 @@ For more detailed information, please refer to:
 
 - [API Reference](docs/API_REFERENCE.md)
 - [Architecture & Design](docs/ARCHITECTURE.md)
+- [Project URL](https://github.com/TarunCodesFr/boughty-ecommerce)
